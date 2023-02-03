@@ -6,7 +6,36 @@
       "author": "typicode"
     }
   ],
-  "signupUsers": [],
+  "signupUsers": [
+    {
+      "name": "Piyush",
+      "phone": 766606066,
+      "email": "29piyushbora@gmail.com",
+      "password": "21r34r2r",
+      "id": 1
+    },
+    {
+      "name": "Piyush",
+      "phone": 1234567890,
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "Piyush Bora",
+      "phone": 1234567890,
+      "email": "29piyushbora@gmail.com",
+      "password": "piyush!",
+      "id": 3
+    },
+    {
+      "name": "Piyush",
+      "phone": 1234567890,
+      "email": "29piyushbora@gmail.com",
+      "password": "hello1",
+      "id": 4
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
